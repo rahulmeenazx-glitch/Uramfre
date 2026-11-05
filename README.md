@@ -36,8 +36,8 @@ This automated service is based on data collected and maintained by others. Full
 | Detail | Link |
 |--------|------|
 | 🌐 Live Website | [FanCode Live — SAYAN](https://famcode10.pages.dev/) |
-| Whatsapp Channel | [@sportlink](https://whatsapp.com/channel/0029VbC2oQsC6ZvmwpR3v73v)
-| Telegram Channel | [@sportlink](t.me/sportlink10)
+| Whatsapp Channel | [@sportlink](https://whatsapp.com/channel/0029VbC91fK6rsQs1n1T423d)
+| Telegram Channel | [@sportlink](https://t.me/cricketfree2027)
 ---
 
 
